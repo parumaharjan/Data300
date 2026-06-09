@@ -1,0 +1,104 @@
+park_name,category,country,price,per_week_visitors2,per_month_visitors,per_year_visitors,visitor_reviews,revisit_rate_per_year,total_revenue_per_year(millions)
+Imagicaa Theme Park,theme park,India,550,650,2600,31200,excellent,58.5,17.16
+Imagicaa Water Park,water park,India,630,520,2080,24960,very good,52.3,15.73
+Wonderla Bengaluru,amusement park,India,670,600,2400,28800,excellent,60.2,19.30
+Wonderla Kochi,amusement park,India,770,480,1920,23040,very good,55.1,17.74
+Wonderla Hyderabad,amusement park,India,1330,500,2000,24000,very good,54.8,31.92
+EsselWorld,amusement park,India,990,420,1680,20160,good,48.6,19.96
+Water Kingdom,water park,India,2170,450,1800,21600,good,46.2,46.87
+Ramoji Film City,theme park,India,840,700,2800,33600,excellent,62.4,28.23
+Adlabs Aquamagica,water park,India,1920,380,1520,18240,good,44.9,35.02
+Nicco Park,amusement park,India,780,300,1200,14400,average,38.7,11.23
+Adventure Island Delhi,amusement park,India,480,320,1280,15360,good,42.5,7.37
+Appu Ghar Gurgaon,amusement park,India,540,280,1120,13440,average,36.8,7.26
+Snow World Mumbai,indoor park,India,850,260,1040,12480,good,41.2,10.61
+Snow World Hyderabad,indoor park,India,520,240,960,11520,good,40.6,5.99
+Queensland Amusement Park,amusement park,India,570,220,880,10560,average,34.5,6.02
+VGP Universal Kingdom,amusement park,India,800,340,1360,16320,good,45.3,13.06
+Kishkinta Theme Park,theme park,India,1860,360,1440,17280,good,47.1,32.14
+Black Thunder,water park,India,2360,400,1600,19200,very good,49.8,45.31
+Wonderla Bhubaneswar,amusement park,India,720,300,1200,14400,good,43.2,10.37
+Ocean Park Hyderabad,water park,India,2460,260,1040,12480,average,35.9,30.70
+Kingdom of Dreams,theme park,India,630,380,1520,18240,very good,50.2,11.49
+Snow World Ahmedabad,indoor park,India,2720,180,720,8640,average,34.1,23.50
+Snow World Chennai,indoor park,India,1550,200,800,9600,good,36.5,14.88
+Splash The Water Park Delhi,water park,India,570,240,960,11520,average,33.8,6.57
+Fun N Food Village Delhi,water park,India,2590,220,880,10560,average,32.4,27.35
+Fun N Food Village Mumbai,water park,India,710,210,840,10080,average,31.9,7.16
+Appu Ghar Jaipur,amusement park,India,1590,260,1040,12480,good,38.6,19.84
+Nicco Water Park,water park,India,1010,230,920,11040,average,34.9,11.15
+Swapna Srushti Water Park,water park,India,490,250,1000,12000,good,37.8,5.88
+Krushnai Water Park,water park,India,2720,200,800,9600,average,33.1,26.11
+Wet N Joy Lonavala,water park,India,570,420,1680,20160,very good,49.7,11.49
+Wet N Joy Shirdi,water park,India,940,380,1520,18240,very good,48.9,17.15
+Diamond Water Park Pune,water park,India,840,260,1040,12480,good,39.4,10.48
+Sentosa Water Park Pune,water park,India,780,280,1120,13440,good,40.6,10.48
+Tikuji-ni-Wadi,amusement park,India,970,300,1200,14400,good,41.8,13.97
+Suraj Water Park,water park,India,2290,270,1080,12960,good,39.9,29.68
+Worlds of Wonder,amusement park,India,890,360,1440,17280,very good,47.5,15.38
+Funtasia Water Park,water park,India,830,220,880,10560,average,34.7,8.77
+Black Thunder Theme Park,theme park,India,520,410,1640,19680,very good,50.4,10.24
+Baywatch Amusement Park,amusement park,India,1390,290,1160,13920,good,41.1,19.35
+Queensland Water Park,water park,India,640,270,1080,12960,good,39.6,8.30
+Anandi Water Park,water park,India,740,230,920,11040,average,33.2,8.17
+Dream World Water Park,water park,India,430,210,840,10080,average,32.1,4.34
+GRS Fantasy Park,amusement park,India,910,260,1040,12480,good,38.9,11.36
+GRS Snow Park,indoor park,India,400,200,800,9600,average,31.8,3.84
+Innovative Film City,theme park,India,1830,400,1600,19200,very good,48.2,35.14
+Splashdown Water Park,water park,India,2280,250,1000,12000,good,37.5,27.36
+Wonder Valley Adventure Park,adventure park,India,1900,280,1120,13440,good,40.1,25.54
+Della Adventure Park,adventure park,India,750,450,1800,21600,excellent,59.8,16.20
+Mount Opera Theme Park,theme park,India,640,260,1040,12480,average,35.6,7.99
+Ocean Park Gandipet,water park,India,840,280,1120,13440,good,39.8,11.29
+Snow Kingdom Bengaluru,indoor park,India,2650,220,880,10560,good,36.9,27.98
+Snow Kingdom Chennai,indoor park,India,880,210,840,10080,average,34.4,8.87
+Queensland Snow Park,indoor park,India,760,200,800,9600,average,33,7.30
+Fantasy Kingdom Kolkata,theme park,India,2070,300,1200,14400,good,42.1,29.81
+Aquatica Kolkata,water park,India,970,340,1360,16320,very good,46.8,15.83
+Aqua Imagicaa,water park,India,650,480,1920,23040,very good,52.7,14.98
+Snow World Kolkata,indoor park,India,2460,220,880,10560,average,34.6,25.98
+Snow World Noida,indoor park,India,750,230,920,11040,good,36.1,8.28
+Ocean Park Chennai,water park,India,560,260,1040,12480,average,35.2,6.99
+Queensland Adventure Park,adventure park,India,590,320,1280,15360,good,44.3,9.06
+Fun City Chandigarh,indoor park,India,2070,180,720,8640,average,31.4,17.89
+Splash Water Park Chandigarh,water park,India,1980,240,960,11520,average,34.2,22.81
+Fun N Food Village Chandigarh,water park,India,620,230,920,11040,average,33.6,6.85
+Snow World Chandigarh,indoor park,India,590,190,760,9120,average,32.8,5.38
+Aqua Village Amusement Park,water park,India,870,220,880,10560,average,33.1,9.19
+Fantasy Island Mumbai,amusement park,India,1660,300,1200,14400,good,41.9,23.91
+EsselWorld Water Kingdom Park,water park,India,600,420,1680,20160,good,45.7,12.10
+Snow Park Hyderabad,indoor park,India,480,210,840,10080,average,34.3,4.84
+Fun World Bengaluru,amusement park,India,850,280,1120,13440,good,40.2,11.43
+Queensland Amusement Park Kochi,amusement park,India,810,260,1040,12480,average,36.4,10.11
+Snow World Kochi,indoor park,India,1540,190,760,9120,average,32.2,14.05
+Magic Planet Thiruvananthapuram,theme park,India,1690,240,960,11520,good,37.9,19.47
+Happy Valley Amusement Park,amusement park,India,510,250,1000,12000,average,35.8,6.12
+Silver Storm Water Theme Park,water park,India,780,360,1440,17280,very good,47.6,13.48
+Vismaya Water Park,water park,India,440,260,1040,12480,good,38.4,5.49
+Dream World Thrissur,amusement park,India,1780,220,880,10560,average,33.9,18.80
+Fantasy Park Odisha,amusement park,India,1520,210,840,10080,average,33.1,15.32
+Wonderla Chennai,amusement park,India,2090,420,1680,20160,very good,51.4,42.14
+Wonderla Bhubaneswar Water Park,water park,India,1000,300,1200,14400,good,43.7,14.40
+Snow World Pune,indoor park,India,500,230,920,11040,good,36.5,5.52
+Splash Water Park Jaipur,water park,India,780,240,960,11520,average,34.1,8.99
+Fun Kingdom Jaipur,amusement park,India,690,250,1000,12000,average,35.6,8.28
+Rajasthan Adventure Park,adventure park,India,940,280,1120,13440,good,40.8,12.63
+Snow Park Jaipur,indoor park,India,580,190,760,9120,average,32.6,5.29
+Wonder Valley Lonavala,adventure park,India,750,320,1280,15360,very good,45.9,11.52
+Snow Park Indore,indoor park,India,680,180,720,8640,average,31.5,5.88
+Fun City Indore,indoor park,India,490,170,680,8160,average,30.9,4.00
+Ocean Park Vijayawada,water park,India,660,240,960,11520,average,34.2,7.60
+Queensland Water Park Hyderabad,water park,India,2370,280,1120,13440,good,40.5,31.85
+Snow Park Vijayawada,indoor park,India,560,180,720,8640,average,31.7,4.84
+KidZania Mumbai,indoor park,India,1750,420,1680,20160,very good,52.4,35.28
+KidZania Delhi NCR,indoor park,India,1260,450,1800,21600,very good,53.1,27.22
+Snow World Delhi,indoor park,India,840,260,1040,12480,good,36.9,10.48
+Snow City Bengaluru,indoor park,India,2360,240,960,11520,average,34.8,27.19
+Snow Fantasy Ahmedabad,indoor park,India,510,220,880,10560,average,33.7,5.39
+Fun City Mumbai,indoor park,India,710,200,800,9600,average,32.4,6.82
+Timezone India,indoor park,India,920,190,760,9120,average,31.2,8.39
+Adventure Park Pushkar,adventure park,India,810,260,1040,12480,good,39.6,10.11
+Rishikesh Adventure Park,adventure park,India,1550,280,1120,13440,good,41.8,20.83
+Bir Billing Adventure Zone,adventure park,India,2780,300,1200,14400,very good,44.9,40.03
+Eco Park Kolkata,eco park,India,810,350,1400,16800,good,42.6,13.61
+Van Rani Eco Park,eco park,India,2640,280,1120,13440,average,38.1,35.48
